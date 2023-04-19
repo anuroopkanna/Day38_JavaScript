@@ -16,7 +16,6 @@ for (let i = 1; i < values.length; i++) {
   }
 }
 
-// Output the results
 console.log("The 5 random values are: " + values.join(", "));
 console.log("The minimum value is: " + minValue);
 console.log("The maximum value is: " + maxValue);
